@@ -1,4 +1,0 @@
-.gitmodules -text
-[submodule "extensions/sd_extension-prompt_formatter"]
-	path = extensions/sd_extension-prompt_formatter
-	url = https://github.com/uwidev/sd_extension-prompt_formatter
