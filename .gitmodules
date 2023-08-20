@@ -1,0 +1,93 @@
+[submodule "extensions/--sd-webui-ar-plus"]
+	path = extensions/--sd-webui-ar-plus
+	url = https://github.com/LEv145/--sd-webui-ar-plus
+[submodule "extensions/OneButtonPrompt"]
+	path = extensions/OneButtonPrompt
+	url = https://github.com/AIrjen/OneButtonPrompt
+[submodule "extensions/a1111-sd-webui-lycoris"]
+	path = extensions/a1111-sd-webui-lycoris
+	url = https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris.git
+[submodule "extensions/a1111-sd-webui-tagcomplete"]
+	path = extensions/a1111-sd-webui-tagcomplete
+	url = https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+[submodule "extensions/adetailer"]
+	path = extensions/adetailer
+	url = https://github.com/Bing-su/adetailer
+[submodule "extensions/batchlinks-webui"]
+	path = extensions/batchlinks-webui
+	url = https://github.com/etherealxx/batchlinks-webui
+[submodule "extensions/canvas-zoom"]
+	path = extensions/canvas-zoom
+	url = https://github.com/richrobber2/canvas-zoom
+[submodule "extensions/danbooru-prompt"]
+	path = extensions/danbooru-prompt
+	url = https://github.com/EnsignMK/danbooru-prompt
+[submodule "extensions/stable-diffusion-webui-fix-image-paste"]
+	path = extensions/stable-diffusion-webui-fix-image-paste
+	url = https://github.com/klimaleksus/stable-diffusion-webui-fix-image-paste
+[submodule "extensions/latent-upscale"]
+	path = extensions/latent-upscale
+	url = https://github.com/feynlee/latent-upscale
+[submodule "extensions/openpose-editor"]
+	path = extensions/openpose-editor
+	url = https://github.com/fkunn1326/openpose-editor
+[submodule "extensions/posex"]
+	path = extensions/posex
+	url = https://github.com/hnmr293/posex.git
+[submodule "extensions/sd-civitai-browser"]
+	path = extensions/sd-civitai-browser
+	url = https://github.com/Vetchems/sd-civitai-browser
+[submodule "extensions/sd-dynamic-thresholding"]
+	path = extensions/sd-dynamic-thresholding
+	url = https://github.com/mcmonkeyprojects/sd-dynamic-thresholding.git
+[submodule "extensions/sd-fast-pnginfo"]
+	path = extensions/sd-fast-pnginfo
+	url = https://github.com/NoCrypt/sd-fast-pnginfo
+[submodule "extensions/sd-webui-additional-networks"]
+	path = extensions/sd-webui-additional-networks
+	url = https://github.com/kohya-ss/sd-webui-additional-networks
+[submodule "extensions/sd-webui-agent-scheduler"]
+	path = extensions/sd-webui-agent-scheduler
+	url = https://github.com/ArtVentureX/sd-webui-agent-scheduler.git
+[submodule "extensions/sd-webui-animatediff"]
+	path = extensions/sd-webui-animatediff
+	url = https://github.com/continue-revolution/sd-webui-animatediff
+[submodule "extensions/sd-webui-color-enhance"]
+	path = extensions/sd-webui-color-enhance
+	url = https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git
+[submodule "extensions/sd-webui-controlnet"]
+	path = extensions/sd-webui-controlnet
+	url = https://github.com/Mikubill/sd-webui-controlnet.git
+[submodule "extensions/sd-webui-cutoff"]
+	path = extensions/sd-webui-cutoff
+	url = https://github.com/hnmr293/sd-webui-cutoff
+[submodule "extensions/sd-webui-infinite-image-browsing"]
+	path = extensions/sd-webui-infinite-image-browsing
+	url = https://github.com/zanllp/sd-webui-infinite-image-browsing.git
+[submodule "extensions/sd-webui-llul"]
+	path = extensions/sd-webui-llul
+	url = https://github.com/hnmr293/sd-webui-llul.git
+[submodule "extensions/sd-webui-pixelart"]
+	path = extensions/sd-webui-pixelart
+	url = https://github.com/mrreplicart/sd-webui-pixelart
+[submodule "extensions/sd-webui-regional-prompter"]
+	path = extensions/sd-webui-regional-prompter
+	url = https://github.com/hako-mikan/sd-webui-regional-prompter
+[submodule "extensions/sd-webui-tunnels"]
+	path = extensions/sd-webui-tunnels
+	url = https://github.com/Bing-su/sd-webui-tunnels
+[submodule "extensions/sd_delete_button"]
+	path = extensions/sd_delete_button
+	url = https://github.com/AlUlkesh/sd_delete_button.git
+[submodule "extensions/stable-diffusion-webui"]
+	path = extensions/stable-diffusion-webui
+	url = https://github.com/catppuccin/stable-diffusion-webui
+[submodule "extensions/stable-diffusion-webui-state"]
+	path = extensions/stable-diffusion-webui-state
+	url = https://github.com/ilian6806/stable-diffusion-webui-state.git
+[submodule "extensions/stable-diffusion-webui-two-shot"]
+	path = extensions/stable-diffusion-webui-two-shot
+	url = https://github.com/ashen-sensored/stable-diffusion-webui-two-shot.git
+[submodule "extensions/ultimate-upscale-for-automatic1111"]
+	path = extensions/ultimate-upscale-for-automatic1111
+	url = https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git
